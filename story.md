@@ -1,1 +1,1 @@
-once upon a time  in a software company, there was a lonely programmer.
+Once upon a time in a software company, there was a lonely programmer.
